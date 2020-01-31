@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "北海道2020"
+date:   2020-01-31 21:05:20 +0800
+categories: hokkaido
+---
+
+### 登别温泉
+![onsen][onsen_pic]
+
+### 札幌雪中电车
+![densha][dansha_pic]
+
+[onsen_pic]: {{ site.baseurl }}/assets/onsen_hokkaido.jpg
+[dansha_pic]: {{ site.baseurl }}/assets/yuki_densha.jpg
