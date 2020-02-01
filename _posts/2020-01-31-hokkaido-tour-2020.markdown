@@ -53,16 +53,15 @@ categories: [北海道, 旅行]
 ![sapporo_cafecat][sapporo_cafecat_pic]
 <br/>
 
-
-[hakodate_port_pic]: {{ site.baseurl }}/assets/images/hakodate_port.JPG
-[hakodate_mont_pic]: {{ site.baseurl }}/assets/images/hakodate_mont.JPG
-[hakodate_sashimi_pic]: {{ site.baseurl }}/assets/images/hakodate_sashimi.JPG
-[hakodate_market_pic]: {{ site.baseurl }}/assets/images/hakodate_market.JPG
-[hakodate_goryokaku_pic]: {{ site.baseurl }}/assets/images/hakodate_goryokaku.JPG
-[noboribetsu_onsen_pic]: {{ site.baseurl }}/assets/images/noboribetsu_onsen.JPG
-[otaru_port_pic]: {{ site.baseurl }}/assets/images/otaru_port.JPG
-[otaru_sakaimachi_pic]: {{ site.baseurl }}/assets/images/otaru_sakaimachi.JPG
-[sapporo_densha_pic]: {{ site.baseurl }}/assets/images/sapporo_densha.JPG
-[sapporo_milk_pic]: {{ site.baseurl }}/assets/images/sapporo_milk.JPG
-[sapporo_cafecat_pic]: {{ site.baseurl }}/assets/images/sapporo_cafecat.JPG
+[hakodate_port_pic]: {{ site.baseurl }}/assets/images/hokkaido/hakodate_port.JPG
+[hakodate_mont_pic]: {{ site.baseurl }}/assets/images/hokkaido/hakodate_mont.JPG
+[hakodate_sashimi_pic]: {{ site.baseurl }}/assets/images/hokkaido/hakodate_sashimi.JPG
+[hakodate_market_pic]: {{ site.baseurl }}/assets/images/hokkaido/hakodate_market.JPG
+[hakodate_goryokaku_pic]: {{ site.baseurl }}/assets/images/hokkaido/hakodate_goryokaku.JPG
+[noboribetsu_onsen_pic]: {{ site.baseurl }}/assets/images/hokkaido/noboribetsu_onsen.JPG
+[otaru_port_pic]: {{ site.baseurl }}/assets/images/hokkaido/otaru_port.JPG
+[otaru_sakaimachi_pic]: {{ site.baseurl }}/assets/images/hokkaido/otaru_sakaimachi.JPG
+[sapporo_densha_pic]: {{ site.baseurl }}/assets/images/hokkaido/sapporo_densha.JPG
+[sapporo_milk_pic]: {{ site.baseurl }}/assets/images/hokkaido/sapporo_milk.JPG
+[sapporo_cafecat_pic]: {{ site.baseurl }}/assets/images/hokkaido/sapporo_cafecat.JPG
 
