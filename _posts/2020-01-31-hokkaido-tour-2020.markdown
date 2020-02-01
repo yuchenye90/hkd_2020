@@ -3,6 +3,7 @@ layout: post
 title:  北海道纪行
 date:   2020-01-31 21:05:20 +0800
 categories: [北海道, 旅行]
+sticky: true
 ---
 
 ## 函馆

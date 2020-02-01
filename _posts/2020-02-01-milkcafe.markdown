@@ -1,0 +1,49 @@
+---
+layout: post
+title:  「ミルク」咖啡店
+date:   2020-02-01 10:30:00 +0800
+categories: [北海道, 旅游]
+---
+
+「ミルク」咖啡店
+![milkcafe][milkcafe_pic]
+<br/>
+
+"店内有猫"
+![cat_in_cafe][cat_in_cafe_pic]
+<br/>
+
+虎斑 - おはぎ（牡丹饼）
+![ohagi][ohagi_pic]
+<br/>
+
+橘猫 - いなり（豆皮）
+![inari][inari_pic]
+<br/>
+
+店内的照片墙
+![wall][wall_pic]
+<br/>
+
+牛奶咖啡
+![milk][milk_pic]
+<br/>
+
+猫与咖啡店的书
+![book][book_pic]
+<br/>
+
+Miyuki的歌「ミルク32」
+![milk32][milk32_pic]
+<br/>
+
+[milkcafe_pic]: {{ site.baseurl }}/assets/images/milkcafe/milkcafe.JPG
+[cat_in_cafe_pic]: {{ site.baseurl }}/assets/images/milkcafe/cat_in_cafe.JPG
+[ohagi_pic]: {{ site.baseurl }}/assets/images/milkcafe/ohagi.JPG
+[inari_pic]: {{ site.baseurl }}/assets/images/milkcafe/inari.JPG
+[wall_pic]: {{ site.baseurl }}/assets/images/milkcafe/wall.JPG
+[milk_pic]: {{ site.baseurl }}/assets/images/milkcafe/milk.JPG
+[book_pic]: {{ site.baseurl }}/assets/images/milkcafe/book.JPG
+[milk32_pic]: {{ site.baseurl }}/assets/images/milkcafe/milk32.JPG
+
+
