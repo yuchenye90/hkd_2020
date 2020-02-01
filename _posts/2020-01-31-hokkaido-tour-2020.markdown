@@ -1,15 +1,68 @@
 ---
 layout: post
-title:  "北海道2020"
+title:  雪国纪行
 date:   2020-01-31 21:05:20 +0800
-categories: hokkaido
+categories: [北海道, 旅行]
 ---
 
-### 登别温泉
-![onsen][onsen_pic]
+## 函馆
+函馆湾边的青函联络船
+![hakodate_port][hakodate_port_pic]
+<br/>
 
-### 札幌雪中电车
-![densha][dansha_pic]
+函馆山上的乌鸦
+![hakodate_mont][hakodate_mont_pic]
+<br/>
 
-[onsen_pic]: {{ site.baseurl }}/assets/onsen_hokkaido.jpg
-[dansha_pic]: {{ site.baseurl }}/assets/yuki_densha.jpg
+刺身
+![hakodate_sashimi][hakodate_sashimi_pic]
+<br/>
+
+函馆朝市的盐烧海螺
+![hakodate_market][hakodate_market_pic]
+<br/>
+
+五棱郭公园一角
+![hakodate_goryokaku][hakodate_goryokaku_pic]
+<br/>
+
+## 登别
+泉源公园
+![noboribetsu_onsen][noboribetsu_onsen_pic]
+<br/>
+
+## 小樽
+小樽港
+![otaru_port][otaru_port_pic]
+<br/>
+
+堺町
+![otaru_sakaimachi][otaru_sakaimachi_pic]
+<br/>
+
+## 札幌
+雪中电车
+![sapporo_densha][sapporo_densha_pic]
+<br/>
+
+「ミルク」咖啡店
+![sapporo_milk][sapporo_milk_pic]
+<br/>
+
+咖啡店的猫 —— 油豆腐
+![sapporo_cafecat][sapporo_cafecat_pic]
+<br/>
+
+
+[hakodate_port_pic]: {{ site.baseurl }}/assets/images/hakodate_port.JPG
+[hakodate_mont_pic]: {{ site.baseurl }}/assets/images/hakodate_mont.JPG
+[hakodate_sashimi_pic]: {{ site.baseurl }}/assets/images/hakodate_sashimi.JPG
+[hakodate_market_pic]: {{ site.baseurl }}/assets/images/hakodate_market.JPG
+[hakodate_goryokaku_pic]: {{ site.baseurl }}/assets/images/hakodate_goryokaku.JPG
+[noboribetsu_onsen_pic]: {{ site.baseurl }}/assets/images/noboribetsu_onsen.JPG
+[otaru_port_pic]: {{ site.baseurl }}/assets/images/otaru_port.JPG
+[otaru_sakaimachi_pic]: {{ site.baseurl }}/assets/images/otaru_sakaimachi.JPG
+[sapporo_densha_pic]: {{ site.baseurl }}/assets/images/sapporo_densha.JPG
+[sapporo_milk_pic]: {{ site.baseurl }}/assets/images/sapporo_milk.JPG
+[sapporo_cafecat_pic]: {{ site.baseurl }}/assets/images/sapporo_cafecat.JPG
+
