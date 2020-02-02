@@ -1,0 +1,76 @@
+---
+layout: post
+title:  吃货篇
+date:   2020-02-02 12:30:00 +0800
+categories: [北海道, 旅游]
+---
+
+## 札幌JR站商圈
+炸牡蛎
+![fried_kagi][fried_kagi_pic]
+<br/>
+
+拉面共和国
+![ramen_republic][ramen_republic_pic]
+<br/>
+
+## 札幌狸小路商业街
+烧肉，牛内脏拼盘
+![yakiniku][yakiniku_pic]
+<br/>
+
+## 函馆朝市
+刺身拼盘
+![sashimi][sashimi_pic]
+<br/>
+
+烤牡丹虾
+![ebi][ebi_pic]
+<br/>
+
+## 函馆小丑汉堡
+店内，很多中国游客
+![lucky_burger1][lucky_burger1_pic]
+<br/>
+
+粗糙的老式汉堡
+![lucky_burger2][lucky_burger2_pic]
+<br/>
+
+相比小丑汉堡，日本连锁的MOS汉堡卖相胜出！
+![mos_burger][mos_burger_pic]
+<br/>
+
+## 函馆 LA VISTA 自助早餐
+自助早餐，评分日本第二
+![la_vista1][la_vista1_pic]
+<br/>
+
+自助海鲜丼
+![la_vista2][la_vista2_pic]
+<br/>
+
+特产烤物
+![la_vista3][la_vista3_pic]
+<br/>
+
+## 小樽的LeTAO蛋糕
+芝士蛋糕
+![letao][letao_pic]
+<br/>
+
+
+[fried_kagi_pic]: {{ site.baseurl }}/assets/images/food/fried_kagi.JPG
+[ramen_republic_pic]: {{ site.baseurl }}/assets/images/food/ramen_republic.JPG
+[yakiniku_pic]: {{ site.baseurl }}/assets/images/food/yakiniku.JPG
+[sashimi_pic]: {{ site.baseurl }}/assets/images/food/sashimi.JPG
+[ebi_pic]: {{ site.baseurl }}/assets/images/food/ebi.JPG
+[lucky_burger1_pic]: {{ site.baseurl }}/assets/images/food/lucky_burger1.JPG
+[lucky_burger2_pic]: {{ site.baseurl }}/assets/images/food/lucky_burger2.JPG
+[mos_burger_pic]: {{ site.baseurl }}/assets/images/food/mos_burger.JPG
+[la_vista1_pic]: {{ site.baseurl }}/assets/images/food/la_vista1.JPG
+[la_vista2_pic]: {{ site.baseurl }}/assets/images/food/la_vista2.JPG
+[la_vista3_pic]: {{ site.baseurl }}/assets/images/food/la_vista3.JPG
+[letao_pic]: {{ site.baseurl }}/assets/images/food/letao.JPG
+
+
